@@ -16,6 +16,7 @@ while($row = mysqli_fetch_object($res)){
 
 }
  echo "<pre>";
- print_r ($rs);
+ print_r ($rs)
+ echo"sucess"
 
 ?>
