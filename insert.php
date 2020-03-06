@@ -1,6 +1,7 @@
 <?php
 require_once("end/db.php");
 
+
 $id = $_POST['name'];
 $name = $_POST['name'];
 $email = $_POST['email'];

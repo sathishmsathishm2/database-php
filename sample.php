@@ -1,5 +1,6 @@
 <?php
 require_once("end/db.php");
+require_once("end/db.php");
 
 
 $sql = "SELECT * FROM  employee";
